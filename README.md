@@ -1,4 +1,4 @@
-# Curso FullStack ReactJS nodeJS
+# Curso FullStack React nodeJS
 ## Este curso é para desenvolvimento Web
 ### Aula 01
  * Criação do projeto
