@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Curso FullStack ReactJS nodeJS
-=======
+
+
 # Curso FullStack React nodeJS
 
 ## Este curso é para desenvolvimento Web
@@ -13,7 +12,5 @@
  * Query
  * Body
 
- * Introdução ao padrão MVC - Controllers
-=======
  * Introdução ao padrão MVC - Controllers
 
