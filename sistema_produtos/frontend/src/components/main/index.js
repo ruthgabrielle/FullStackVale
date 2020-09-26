@@ -48,7 +48,7 @@ export default class Main extends Component{
                <article key={product._id}> 
                     <strong>{product.descricao}</strong>
                     <p>{product.fabricante}</p>
-                    <Link to ={`/products`}>Detalhes</Link>
+                    <Link to ={`/products/${product._id}`}>Detalhes</Link>
                </article>
            ))}
            <div className='actions'> 
